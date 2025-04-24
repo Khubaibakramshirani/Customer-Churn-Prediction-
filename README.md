@@ -60,7 +60,7 @@ This project addresses this challenge by developing a system that:
 
 1. Clone this repository:
 ```
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Khubaibakramshirani/customer-churn-prediction.git
 ```
 
 2. Install required packages:
@@ -100,5 +100,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For any questions or feedback, please reach out to:
 - Email: khubaibshirani@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/khubaib-akram/)
-- GitHub: [@yourusername](https://github.com/Khubaibakramshirani)
+- LinkedIn: (https://www.linkedin.com/in/khubaib-akram/)
+- GitHub: (https://github.com/Khubaibakramshirani)
